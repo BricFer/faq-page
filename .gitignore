@@ -16,5 +16,8 @@
 .prettierignore
 node_modules/
 design/
+
 *.json
+
+tailwind.config.js
 
